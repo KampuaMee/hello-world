@@ -1,4 +1,4 @@
 # hello-world
-first git
+first gi
 
-wow, branch
+wow, brancesh
